@@ -1,0 +1,15 @@
+# Site Settings
+title: HTML
+email: profesor.asix@gmail.com
+description: >
+  A guide to getting started with HTML.
+baseurl: "/inf-bat"
+url: "http://sorolla-jekyll.herokuapp.com"
+#twitter_username: taniarascia
+#github_username:  taniarascia
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
