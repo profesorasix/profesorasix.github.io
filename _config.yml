@@ -1,12 +1,12 @@
 # Site Settings
-title: HTML
+title: Método de solfeo LAZ
 email: profesor.asix@gmail.com
 description: >
-  A guide to getting started with HTML.
+  Metodo de solfeo LAZ
 baseurl: ""
 url: "http://sorolla-jekyll.herokuapp.com"
 #twitter_username: taniarascia
-#github_username:  taniarascia
+github_username:  profesorasix
 # Build Settings
 sass:
   sass_dir: _sass
