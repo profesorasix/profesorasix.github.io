@@ -13,3 +13,17 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+  - scope:
+      path: "assets/pdf"
+    values:
+      pdf: true
+  - scope:
+      path: "assets/midi"
+    values:
+      midi: true
